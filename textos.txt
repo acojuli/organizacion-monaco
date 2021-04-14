@@ -1,0 +1,14 @@
+Gracias por completar el formulario! A la brevedad nos comunicaremos con vos.
+d.cheriniasesordeseguros@gmail.com
+nombre
+email
+celular o telefono
+tipo de seguro desplegable
+Combinado Familiar
+Accidentes Personales
+Integral de Comercio
+Caución
+Seguro Técnico
+Incendio
+Responsabilidad Civil
+Aclaraciones
